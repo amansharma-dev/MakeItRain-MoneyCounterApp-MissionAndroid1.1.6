@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MakeItRain-MoneyCounterApp-MissionAndroid1.1.6</string>
+
+    <string name="text_you_have">You Have</string>
+    <string name="text_amount">$0</string>
+    <string name="text_rich">Rich</string>
+    <string name="buttonText_deposit">Deposit</string>
+    <string name="buttonText_show_tag">Show Tag</string>
+    <string name="buttonText_show_toast">Toast</string>
+
 </resources>
